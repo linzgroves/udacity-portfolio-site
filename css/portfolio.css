@@ -9,15 +9,18 @@ body {
     display: inline-block;
     vertical-align: top;
 }
+
 .logo_img {
     width: 13em;
 }
+
 .name {
     display: inline-block;
     text-align: right;
     font-family: 'Muli', sans-serif;
     margin-top: 3em;
 }
+
 .name > h1 {
     font-weight: 600;
 }
@@ -26,18 +29,22 @@ body {
 .top_content {
     margin: 3em 0;
 }
+
 .content_list {
     display: inline-block;
     vertical-align: top;
 }
+
 .top_all {
     width: 100%;
 }
+
 /* Hero Image */
 .hero_content {
     display: inline-block;
     height: 30em;
 }
+
 .hero_img {
     width: 100%;
     height: 100%;
